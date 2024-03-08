@@ -8,7 +8,7 @@ pipeline{
             }
 
         }
-        stage('test'){
+        stage('tes'){
             steps{
                 sh './output'
             }
